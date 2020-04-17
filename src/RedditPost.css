@@ -1,0 +1,14 @@
+.redditPostContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.redditPostBottomContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.comments {
+  margin-right: 30px;
+}

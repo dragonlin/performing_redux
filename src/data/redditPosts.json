@@ -1,0 +1,23 @@
+{
+  "a": {
+    "title": "My buddy's dog saw a moose",
+    "comments": 100,
+    "submitted": "2000-01-01"
+  },
+
+  "b": {
+    "title": "A cool cat!",
+    "comments": 5,
+    "submitted": "2000-01-01"
+  },
+  "c": {
+    "title": "A cool Dog!",
+    "comments": 10,
+    "submitted": "2000-01-01"
+  },
+  "d": {
+    "title": "A cool Snail!",
+    "comments": 7,
+    "submitted": "2000-01-01"
+  }
+}
