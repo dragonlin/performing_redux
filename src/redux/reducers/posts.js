@@ -16,7 +16,7 @@ export default (state = initialState, action) => {
     case 'posts/LOAD_POSTS_REQUEST':
       return {...state, isLoading: true}
     case 'posts/LOAD_POSTS_SUCCESS':
-      return {...state, posts: action.payload, isLoading: false}
+      return {...state, posts: action.payload.result, length: action.payload.length, isLoading: false}
     default:
       return state
   }
